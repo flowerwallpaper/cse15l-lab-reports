@@ -7,9 +7,9 @@ hello u <3
 [Linky link](https://www.livemint.com/news/world/queen-elizabeth-died-of-broken-heart-royal-expert-decodes-double-rainbow-11664166452068.html)
 ![Alt Text](https://c.tenor.com/Er8PJ8x8o3MAAAAC/crab-rave.gif)
 ---
--gaslight 
--gatekeep
--girlboss
+- gaslight 
+- gatekeep
+- girlboss
 ---
 1. Collect underpants 
 2. ???
