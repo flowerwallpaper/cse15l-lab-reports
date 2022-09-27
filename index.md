@@ -1,9 +1,9 @@
 # Greetings, gamers
 hello u <3.    
 
-*mwahahahah*.   
+*mwahahahah*   
 
-**uh oh**.   
+**uh oh**   
 
 ## the squeaquel
 [Linky link](https://www.livemint.com/news/world/queen-elizabeth-died-of-broken-heart-royal-expert-decodes-double-rainbow-11664166452068.html)
@@ -11,13 +11,13 @@ hello u <3.
 
 - gaslight 
 - gatekeep
-- girlboss.    
+- girlboss    
 
 
 ---
 1. Collect underpants 
 2. ???
-3. Profit.     
+3. Profit     
 
 `WHOA` that was sick
 ```
