@@ -10,10 +10,15 @@ hello u <3
 - gaslight 
 - gatekeep
 - girlboss
+
+
 ---
 1. Collect underpants 
 2. ???
 3. Profit
+
+
+
 ---
 `WHOA` that was sick
 ```
