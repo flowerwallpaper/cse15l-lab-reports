@@ -1,8 +1,6 @@
 # Greetings, gamers
 hello u <3
 ---
-> One small step for man, etc. etc. 
----
 *mwahahahah*
 **uh oh**
 ## the squeaquel
@@ -21,4 +19,5 @@ hello u <3
 ```
 now back to our regularly scheduled programming
 ```
+> One small step for man, etc. etc. 
 
