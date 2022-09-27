@@ -15,7 +15,7 @@ hello u <3
 2. ???
 3. Profit
 ---
-'WHOA' that was sick
+`WHOA` that was sick
 ```
 now back to our regularly scheduled programming
 ```
