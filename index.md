@@ -19,6 +19,6 @@ hello u <3
 ---
 'WHOA' that was sick
 ...
-# now back to our regularly scheduled programming
+now back to our regularly scheduled programming
 ...
 
