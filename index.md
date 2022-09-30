@@ -26,4 +26,4 @@ now back to our regularly scheduled programming
 ```
 > One small step for man, etc. etc. 
 
-[Lab Report 1](lab-report-1-week-0.html)
+[Lab Report 1](https://flowerwallpaper.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
