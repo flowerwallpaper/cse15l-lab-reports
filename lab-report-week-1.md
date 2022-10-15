@@ -44,7 +44,12 @@
 
 6. Optimizing Remote Running
 * In ssh, run a command in quotes to run it on the remote server and exit
+* <img width="535" alt="image" src="https://user-images.githubusercontent.com/103080777/195964358-70ab1ec9-d230-4dcb-b661-dba226e9158b.png">
+
 * Use semicolons to run multiple commands on the same line
+* <img width="343" alt="image" src="https://user-images.githubusercontent.com/103080777/195964058-a51cace0-25f5-445f-9d5d-497a9fc2233b.png">
 * Use the up arrow to scroll through previous commands 
+* <img width="544" alt="image" src="https://user-images.githubusercontent.com/103080777/195964363-cb31073a-20c8-46d6-8846-613ad81dd539.png">
+
 * I can't play around on the remote server yet, so I don't know how else to optimize :/
 
