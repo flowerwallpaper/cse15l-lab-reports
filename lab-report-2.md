@@ -49,3 +49,7 @@ class SearchEngine {
 
 
 
+<img width=<img width="1440" alt="Screen Shot 2022-10-28 at 4 42 25 PM" src="https://user-images.githubusercontent.com/103080777/198751779-4cf7213f-5d28-431d-97f2-bd691490b6f4.png">
+<img width="368" alt="Screen Shot 2022-10-28 at 4 42 25 PM" src="https://user-images.githubusercontent.com/103080777/198751828-5b989be8-72e4-42b7-abfe-c936405b6316.png">
+
+<img width="395" alt="Screen Shot 2022-10-28 at 4 42 01 PM" src="https://user-images.githubusercontent.com/103080777/198751780-380cf008-0a3c-4f5e-8b3a-fc6eb130f504.png">
