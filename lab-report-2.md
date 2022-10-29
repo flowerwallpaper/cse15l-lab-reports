@@ -1,3 +1,5 @@
+#Lab Report 2
+## Part 1
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -56,6 +58,7 @@ Also uses the add method, this time with the argument "apple". The arrayList str
 Uses the search method, finds that the first argument in stringCheese contains "banana", and returns it. No values change in this method. 
 <img width="519" alt="Screen Shot 2022-10-28 at 4 48 17 PM" src="https://user-images.githubusercontent.com/103080777/198751898-95b0f6f0-cc49-4443-99fa-fda3b01b0211.png">
 
+##Part 2
 
 For the method Reversed, I gave it this test:
 ```
@@ -68,11 +71,6 @@ public void testReversed2(){
 The symptom was that the array gave the wrong result-- the first element came back as 0 instead of 4. The bug was using the value of the element at length - i - 1. There is no element before element 0, so there was a null value. My solution was to make a new array with the reversed order, and then put the values from that into the original array. 
 
 
-
-//The failure-inducing input (the code of the test)
-The symptom (the failing test output)
-The bug (the code fix needed)
-Then, explain the connection between the symptom and the bug. Why does the bug cause that particular symptom for that particular input?//
 
 For the method Merge, I used this test. 
 ```
