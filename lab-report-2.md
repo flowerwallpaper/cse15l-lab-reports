@@ -46,13 +46,13 @@ class SearchEngine {
 }
 ```
 
-
-
-
-
+Uses the argument "banana" on the add method. The arraylist stringCheese starts out without any values, and this puts "banana" in it. 
 <img width="368" alt="Screen Shot 2022-10-28 at 4 42 25 PM" src="https://user-images.githubusercontent.com/103080777/198751828-5b989be8-72e4-42b7-abfe-c936405b6316.png">
 
+
+Also uses the add method, this time with the argument "apple". The arrayList stringCheese gets it as a new argument. 
 <img width="395" alt="Screen Shot 2022-10-28 at 4 42 01 PM" src="https://user-images.githubusercontent.com/103080777/198751780-380cf008-0a3c-4f5e-8b3a-fc6eb130f504.png">
 
+Uses the search method, finds that the first argument in stringCheese contains "banana", and returns it. No values change in this method. 
 <img width="519" alt="Screen Shot 2022-10-28 at 4 48 17 PM" src="https://user-images.githubusercontent.com/103080777/198751898-95b0f6f0-cc49-4443-99fa-fda3b01b0211.png">
 
