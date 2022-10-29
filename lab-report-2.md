@@ -58,7 +58,7 @@ Also uses the add method, this time with the argument "apple". The arrayList str
 Uses the search method, finds that the first argument in stringCheese contains "banana", and returns it. No values change in this method. 
 <img width="519" alt="Screen Shot 2022-10-28 at 4 48 17 PM" src="https://user-images.githubusercontent.com/103080777/198751898-95b0f6f0-cc49-4443-99fa-fda3b01b0211.png">
 
-##Part 2
+## Part 2
 
 For the method Reversed, I gave it this test:
 ```
